@@ -208,6 +208,9 @@ public class DtoMocker implements DtoInterface {
 		Field field =  new Field(sampleData.getInputCriteria(), sampleData.getOutputCriteria());
 		return field;
 	}
+	public String dedo() {
+		return "tu baba ha";
+	}
 
 //	CalculatorLink getCalculatorLink(){
 //		SampleData obj = new Samle;
