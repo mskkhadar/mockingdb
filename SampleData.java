@@ -1,4 +1,5 @@
 dfsdjhfbsdjhfbvsdjhfv
+dfsdjhfbsdjhfbvsdjhfv
 arun ka change hai ye1
 package com.nissan.mock_finance_api.mock_samples;
 
@@ -55,6 +56,35 @@ public class SampleData {
 	private String description;
 	private String disclaimer;
 	private Boolean _default;
+	private double purchaseTotal;
+	private double interestRate;
+	private Boolean containsOfferRate;
+	private String offerCode;
+	private String offerDescription;
+	private double deposit;
+	private int loanPeriodMonths;
+	private double balloon;
+	private double nissanDeposit;
+	private double registrationCost;
+	private double insuranceCost;
+	private String productCode;
+	private String frequency;
+	private double intervalPayment;
+	private double totalInterestPaid;
+	private double totalPaidOverLoan;
+	private double balloonRepayment;
+	private double totalFees;
+	private double totalCreditAmount;
+	private double optionalFinalPayment;
+	private String feeType;
+	private String desc;
+	private double fee;
+	private String message ;
+	private String returnCode ;
+	private String code;
+	private int value;
+	private String title;
+	private String financeProducts;
 	
 
 
