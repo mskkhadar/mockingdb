@@ -1,12 +1,14 @@
 dfsdjhfbsdjhfbvsdjhfv
+arun ka change hai ye1
 package com.nissan.mock_finance_api.mock_samples;
 
 
 
 import java.util.ArrayList;
 import java.util.List;
-
+___________________________________
 import lombok.Data;
+arun ka change hai ye2;
 
 @Data
 public class SampleData {
